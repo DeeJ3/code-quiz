@@ -1,18 +1,18 @@
 var quiz = [
     {
-        question: 'This is question 1',
-        choices: ['answer 1 of 1', 'answer 2 of 1', 'answer 3 of 1'],
-        correctAnswer: 'answer 1 of 1'
+        question: 'What does the "T" stand for in HTML?',
+        choices: ['tag', 'text', 'type'],
+        correctAnswer: 'text'
     },
     {
-        question: 'This is question 2',
-        choices: ['answer 1 of 2', 'answer 2 of 2', 'answer 3 of 2'],
-        correctAnswer: 'answer 1 of 1'
+        question: 'Which is not a CSS position?',
+        choices: ['stationary', 'relative', 'static'],
+        correctAnswer: 'stationary'
     },
     {
-        question: 'This is question 3',
-        choices: ['answer 1 of 3', 'answer 2 of 3', 'answer 3 of 3'],
-        correctAnswer: 'answer 3 of 3'
+        question: 'Which is the hex triplet for red?',
+        choices: ['46 82 B4', '2E 8B 57', 'FF 00 00'],
+        correctAnswer: 'FF 00 00'
     }
 ]
 
